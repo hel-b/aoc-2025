@@ -17,11 +17,13 @@ aoc-2025/
 ├── README.md
 ├── day1.ipynb          # Day 1 solution
 ├── day2.ipynb          # Day 2 solution
+├── ...                 # Days 3-25 follow the same pattern
 └── data/
     ├── day1-data.txt   # Day 1 puzzle input
     ├── day1-test.txt   # Day 1 test case
     ├── day2-data.txt   # Day 2 puzzle input
-    └── day2-test.txt   # Day 2 test case
+    ├── day2-test.txt   # Day 2 test case
+    └── ...             # Additional days follow the same pattern
 ```
 
 ## Solutions 🧩
@@ -46,14 +48,6 @@ All solutions are implemented in Python using Jupyter notebooks. To run:
 1. Open the notebook in VS Code or Jupyter
 2. Execute cells sequentially
 3. Test data validates the approach before running on actual input
-
-## Development Environment 🛠️
-
-Solutions are developed in a containerized environment with:
-
-- Python 3.12 🐍
-- Jupyter notebooks 📓
-- NumPy, Pandas, Matplotlib (if needed for analysis)
 
 ## Notes 📝
 
