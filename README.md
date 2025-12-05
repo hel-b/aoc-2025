@@ -38,8 +38,9 @@ Each day's solution is contained in a Jupyter notebook (`dayN.ipynb`) with:
 ### Completed Days ✨
 
 - **Day 1**: [day1.ipynb](day1.ipynb) 🎁
-- **Day 2**: [day2.ipynb](day2.ipynb) - Product ID validation with repeated
-  sequences 🎁
+- **Day 2**: [day2.ipynb](day2.ipynb) 🎁
+- **Day 3**: [day3.ipynb](day3.ipynb) 🎁
+- **Day 4**: [day4.ipynb](day4.ipynb) 🎁
 
 ## Running Solutions 🚀
 
