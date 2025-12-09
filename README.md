@@ -5,10 +5,9 @@ of daily programming puzzles released throughout December. 🎅
 
 ## About Advent of Code 📖
 
-Advent of Code is an Advent calendar of small programming puzzles for a variety
-of skill sets and skill levels that can be solved in any programming language
-you like. People use them as interview prep, company training, university
-coursework, practice problems, a speed contest, or to challenge each other.
+Advent of Code is an Advent calendar of holiday-themed programming puzzles for a
+variety of skill sets and skill levels that can be solved in any programming
+language you like.
 
 ## Structure 📂
 
@@ -45,6 +44,7 @@ Each day's solution is contained in a Jupyter notebook (`dayN.ipynb`) with:
 - **Day 6**: [day6.ipynb](day6.ipynb) 🎁
 - **Day 7**: [day7.ipynb](day7.ipynb) 🎁
 - **Day 8**: [day8.ipynb](day8.ipynb) 🎁
+- **Day 9**: [day9.ipynb](day9.ipynb) Part 1 completed
 
 ## Running Solutions 🚀
 
