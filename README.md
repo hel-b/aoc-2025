@@ -44,7 +44,7 @@ Each day's solution is contained in a Jupyter notebook (`dayN.ipynb`) with:
 - **Day 6**: [day6.ipynb](day6.ipynb) 🎁
 - **Day 7**: [day7.ipynb](day7.ipynb) 🎁
 - **Day 8**: [day8.ipynb](day8.ipynb) 🎁
-- **Day 9**: [day9.ipynb](day9.ipynb) Part 1 completed
+- **Day 9**: [day9.ipynb](day9.ipynb) 🎁
 
 ## Running Solutions 🚀
 
