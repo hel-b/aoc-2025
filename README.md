@@ -45,6 +45,8 @@ Each day's solution is contained in a Jupyter notebook (`dayN.ipynb`) with:
 - **Day 7**: [day7.ipynb](day7.ipynb) 🎁
 - **Day 8**: [day8.ipynb](day8.ipynb) 🎁
 - **Day 9**: [day9.ipynb](day9.ipynb) 🎁
+- **Day 10**: [day10.ipynb](day10.ipynb) Part 2 solved with z3 - would like to
+  solve without helper library later
 
 ## Running Solutions 🚀
 
